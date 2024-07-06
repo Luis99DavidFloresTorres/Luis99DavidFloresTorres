@@ -19,7 +19,7 @@ Soy ingeniero de ciencias de la computación con una gran pasión por la intelig
 - **Descripción:** Desarrollo de un sistema de recomendación utilizando modelos de lenguaje GPT2 y entrenamiento al modelo LLama para la empresa CEPI de la USFX.
 - **Tecnologías usadas:** Python, Modelos de Lenguaje (LLM) 🐍🧠 , Node (envío de whatsapp), Angular, Flask
 - **Repositorio:** sistema:   https://github.com/Luis99DavidFloresTorres/System_Recommendation
-- entrenamiento:     https://github.com/Luis99DavidFloresTorres/Recommended-Courses-fineTune-gpt2-spanish-medium
+- entrenamiento:     https://github.com/Luis99DavidFloresTorres/Recommended-Courses-fineTune-gpt2-spanish-medium](https://github.com/Luis99DavidFloresTorres/Llama-GPT2-Train-Models-on-Recommendation-System
 
 ## Contacto
 
