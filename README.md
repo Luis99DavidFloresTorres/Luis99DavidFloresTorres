@@ -15,6 +15,6 @@ I thrive in collaborative environments where I can contribute to impactful proje
 ## Contacto
 
 - **LinkedIn:** https://www.linkedin.com/in/luis-david-flores-torres-704a80229/
-- **Correo electrónico:** luisdavid99florestorres@gmail.com
+- **Gmail:** luisdavid99florestorres@gmail.com
 
 ¡Thank you for your time! 🙏
