@@ -1,7 +1,7 @@
 # ¡Hi, My name is Luis David! 👋
 
 ## About me
-I am a computer science engineer with 5 years of experience in Artificial Intelligence and Natural Language Processing. I specialize in designing innovative solutions, from recommendation systems to advanced chatbot development, leveraging cutting-edge technologies like machine learning and cloud platforms.
+I am a computer science engineer with 4 years of experience in Artificial Intelligence and Natural Language Processing. I specialize in designing innovative solutions, from recommendation systems to advanced chatbot development, leveraging cutting-edge technologies like machine learning and cloud platforms.
 I thrive in collaborative environments where I can contribute to impactful projects, continuously learn, and share knowledge with others. My goal is to tackle challenging problems, and grow as a Machine Learning Engineer while delivering measurable results.
 
 ## SKILLS
